@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        >
+
+    <item
+        android:id="@+id/open_chanels"
+        android:orderInCategory="100"
+
+
+        android:title="@string/op_chanels" />
+
+    <item
+        android:id="@+id/group_chanels"
+        android:orderInCategory="200"
+
+        android:title="@string/gr_chanels" />
+
+        <item
+            android:id="@+id/all_chanels"
+            android:orderInCategory="200"
+
+            android:title="@string/all_chanels" />
+    </item>
+
+</menu>

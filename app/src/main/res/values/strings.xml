@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BlaBlaChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_id">User ID</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Nickname</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_Id">Enter ID</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="op_chanels">Open chanels</string>
+    <string name="gr_chanels">Group chanels</string>
+    <string name="all_chanels">All chanels</string>
+    <string name="constant_open_type">Open</string>
+    <string name="constant_group_type">Group</string>
+</resources>
